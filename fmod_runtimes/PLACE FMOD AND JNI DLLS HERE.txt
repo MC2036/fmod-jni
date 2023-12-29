@@ -1,7 +1,0 @@
-fmodL.dll
-fmodL64.dll
-fmodstudioL.dll
-fmodstudioL64.dl.
-
-...
-... for your platorm
